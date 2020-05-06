@@ -29,7 +29,7 @@ import org.gradle.util.DistributionLocator
 import org.gradle.plugins.ide.eclipse.model.SourceFolder
 
 plugins {
-    id 'com.gradle.build-scan' version '2.2.1'
+    id 'com.gradle.build-scan' version '3.3'
     id 'base'
     id 'elasticsearch.global-build-info'
 }
